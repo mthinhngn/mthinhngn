@@ -19,7 +19,6 @@
 ![Vivado](https://img.shields.io/badge/Tool-Vivado-lightblue) 
 ![VSCode](https://img.shields.io/badge/IDE-VSCode-purple)
 
-**Hardware Expertise:** FPGA • PCB Design • Embedded System Validation  
 
 ---
 
