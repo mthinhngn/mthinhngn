@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Thinh Nguyen
 
 🎓 Computer Engineering student at **San José State University (SJSU)**  
-⚡ Passionate about hardware design, embedded systems, and FPGA development  
+⚡ Passionate about Embedded Software, Software Programming
 🏀 Outside of tech, I enjoy sports and exploring new technologies  
 
 ---
